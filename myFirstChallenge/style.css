@@ -1,0 +1,146 @@
+body{
+   background-color:#fafafa ; 
+}
+.title {
+    width: 40%;
+    text-align: center;
+    margin: 10% auto 5% auto;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1rem;
+    
+}
+
+.title h1:first-of-type {
+ color: #949496;
+}
+.title h1:last-of-type {
+    font-size: 2.2rem;
+}
+
+.title p {
+    color: #949496;
+    font-size: .5rem;
+    width: 80%;
+    margin-left: 10%;
+    text-align: center;
+}
+
+.cards {
+    width: 90%;
+    height: 900px;
+    margin: auto 5%;
+}
+
+.card1 {
+    width: 27%;
+    height: 300px;
+    margin-bottom:50px ;
+    border-radius: 5px;
+    border-top: 5px solid #aa5a59;
+    background-color: #fffdfe;
+    box-shadow: 0 16px 10px rgba(2, 62, 138, .2);
+    position: relative;
+    bottom: 0px;
+    left: 35.07%;
+}
+
+.card1 h3 {
+    font-size: 1.5rem;
+    margin-left: 5%;
+
+}
+.card1 p {
+    color: #949496;
+    font-size: .97rem;
+    width: 90%;
+    margin-left: 5%; 
+}
+
+
+.card2 {
+    width: 27%;
+    height: 300px;
+    margin-bottom:50px ;
+    border-radius: 5px;
+    border-top: 5px solid #adcad2;
+    background-color: #fffdfe;
+    box-shadow: 0 16px 10px rgba(2, 62, 138, .2);
+    position: relative;
+    bottom: 185px;
+    left: 6.64%;
+}
+
+.card2 h3 {
+    font-size: 1.5rem;
+    margin-left: 5%;
+
+}
+.card2 p {
+    color: #949496;
+    font-size: .97rem;
+    width: 90%;
+    margin-left: 5%; 
+}
+
+
+
+.card3 {
+    width: 27%;
+    height: 300px;
+    margin-bottom:50px ;
+    border-radius: 5px;
+    border-top: 5px solid #c4b282;
+    background-color: #fffdfe;
+    box-shadow: 0 16px 10px rgba(2, 62, 138, .2);
+    position: relative;
+    bottom: 370px;
+    left: 35.07%;
+}
+
+.card3 h3 {
+    font-size: 1.5rem;
+    margin-left: 5%;
+
+}
+.card3 p {
+    color: #949496;
+    font-size: .97rem;
+    width: 90%;
+    margin-left: 5%; 
+}
+
+
+.card4 {
+    width: 27%;
+    height: 300px;
+    margin-bottom:50px ;
+    border-radius: 5px;
+    border-top: 5px solid #6494b8;
+    background-color: #fffdfe;
+    box-shadow: 0 16px 10px rgba(2, 62, 138, .2);
+    position: relative;
+    bottom: 895px;
+    left: 63.49%;
+}
+
+.card4 h3 {
+    font-size: 1.5rem;
+    margin-left: 5%;
+
+}
+.card4 p {
+    color: #949496;
+    font-size: .97rem;
+    width: 90%;
+    margin-left: 5%; 
+}
+.img {
+    max-width: 85px;
+    position: absolute;
+    bottom: 40px;
+    right: 30px;
+}
+.img img {
+    width: 100%;
+}
+
